@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 72B3-02D0
+
+ Directory of C:\Users\GFGC\Documents\5th sem\devOps\jenkins\practise
+
+14-02-2023  12:15    <DIR>          .
+14-02-2023  12:15    <DIR>          ..
+14-02-2023  11:47               479 helloworld.class
+14-02-2023  11:44               184 helloworld.java
+14-02-2023  12:14               474 read.txt
+14-02-2023  12:15                 0 text.txt
+               4 File(s)          1,137 bytes
+               2 Dir(s)  401,235,050,496 bytes free
